@@ -2,7 +2,9 @@
 layout: book-review
 title: The Master and Margarita
 author: Mikhail Bulgakov
-isbn: 978014310827
+cover: assets/img/book_covers/M_M.jpg
+isbn: 978-0-14-310827-6
+olid: OL26461497M
 categories: fiction
 tags:
 date: 2026-07-01
