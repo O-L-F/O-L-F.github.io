@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Huis clos: suivi de Les Mouches
+title: Huis clos, suivi de Les Mouches
 author: Jean-Paul Sartre
 olid: OL4488995W
 isbn: 9782070368075
