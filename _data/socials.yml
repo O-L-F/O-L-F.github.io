@@ -12,11 +12,11 @@ custom_social: # can be any name here other than the ones already defined in the
   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
   title: bluesky
   url: https://bsky.app/profile/olivier-lf.bsky.social
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+linkedin: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
   title: LinkedIn
   url: https://www.linkedin.com/in/olivierlesagefilippin/
-  custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+chess: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
   title: Chess.com
   url: https://www.chess.com/member/doublemint6
