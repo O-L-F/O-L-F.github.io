@@ -7,7 +7,7 @@ isbn: 9780140449921
 categories: Classics, Fiction, Russia
 cover: assets/img/book_covers/CBY.jpg
 tags:
-date:
+date: 2026
 started: 2026
 finished: 2026
 released: 1886
