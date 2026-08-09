@@ -2,8 +2,8 @@
 layout: book-review
 title: Canada's Odyssey: A Country Based on Incomplete Conquests
 author: Peter H. Russell
-olid:
-isbn:9781487502041
+olid: OL21346849W
+isbn: 9781487502041
 categories: Histoty, nonfiction, assigned reading
 cover: assets/img/book_covers/can_ody.jpg
 tags:
