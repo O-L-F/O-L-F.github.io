@@ -9,8 +9,8 @@ cover: assets/img/book_covers/CBY.jpg
 tags:
 date:
 started: 2026
-finished:2026
-released:1886
+finished: 2026
+released: 1886
 stars: 4 
 status: Finished
 ---
