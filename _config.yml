@@ -206,7 +206,9 @@ collections:
     output: true
   projects:
     output: true
-  teachings:
+  media:
+    defaults:
+      layout: post
     output: true
 
 # -----------------------------------------------------------------------------
