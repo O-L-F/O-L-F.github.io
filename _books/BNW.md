@@ -8,8 +8,8 @@ categories: Classics, Fiction, Dystopia
 cover: assets/img/book_covers/BNW.jpg
 tags:
 date: 2021
-started: 2021
-finished: 2021
+started: 2021-01-01
+finished: 2021-12-12
 released: 1932
 stars: 5
 status: Finished
