@@ -7,7 +7,7 @@ isbn: 9780060929879
 categories: Classics, Fiction, Dystopia
 cover: assets/img/book_covers/BNW.jpg
 tags:
-date: 2021
+date: 2021-01-01
 started: 2021-01-01
 finished: 2021-12-12
 released: 1932
