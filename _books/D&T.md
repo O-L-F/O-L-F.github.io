@@ -9,7 +9,7 @@ cover: assets/img/book_covers/D&T.jpg
 tags:
 date: 2022-01-01
 started: 2022-01-01
-finished: 2022-03-031
+finished: 2022-03-31
 released: 1965
 stars: 5
 status: Finished
