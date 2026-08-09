@@ -10,7 +10,7 @@ tags:
 date: 2025-01-01
 started: 2025-01-01
 finished: 2025-02-01
-released:1953
+released: 1953
 stars: 5
 status: Finished
 ---
