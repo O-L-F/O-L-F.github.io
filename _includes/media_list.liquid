@@ -1,0 +1,26 @@
+<div class="news">
+  {% if site.media != blank %}
+    {% assign media_items = site.media | sort: 'date' | reverse %}
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+        {% for item in media_items %}
+          <tr>
+            <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
+            <td>
+              {% if item.redirect %}
+                <a class="news-title" href="{{ item.redirect }}" target="_blank" rel="noopener">{{ item.title }}</a>
+              {% else %}
+                <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              {% endif %}
+              {% if item.outlet %}
+                &nbsp;&middot;&nbsp;<em>{{ item.outlet }}</em>
+              {% endif %}
+            </td>
+          </tr>
+        {% endfor %}
+      </table>
+    </div>
+  {% else %}
+    <p>No media appearances yet...</p>
+  {% endif %}
+</div>

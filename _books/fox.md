@@ -7,7 +7,7 @@ isbn:
 categories:
 cover: assets/img/book_covers/fox.jpg
 tags:
-date:
+date: 2026-08-09
 started:
 finished:
 released:
