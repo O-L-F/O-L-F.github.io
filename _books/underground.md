@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Notes from Undergrounf
+title: Notes from Underground
 author: Fyodor Dostoevsky
 olid: 9780679734529
 isbn: 9780679734529
