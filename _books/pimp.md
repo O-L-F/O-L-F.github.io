@@ -4,7 +4,7 @@ title: Pimp
 author: Iceberg Slim
 olid: OL1853064W
 isbn: 9781451617139
-categories: nonfiction, biography, crime
+categories: [Nonfiction, Biography, Crime]
 cover: assets/img/book_covers/pimp.jpg
 tags:
 date: 2023-02-01

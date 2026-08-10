@@ -4,7 +4,7 @@ title: The Big Short
 author: Micheal Lewis
 olid: OL15118378W
 isbn: 9780393072235
-categories: Nonfiction, economics
+categories: [Nonfiction, Economics]
 cover: assets/img/book_covers/bigshort.jpg
 tags:
 date: 2023-05-01

@@ -4,7 +4,7 @@ title: Thus Spoke Zarathustra
 author: Nietzshe
 olid: OL98130W
 isbn: 9780140441185 
-categories: Philosophy, Religion, Classics
+categories: [Philosophy, Religion, Classics]
 cover: assets/img/book_covers/zara.jpg
 tags:
 date: 2024-02-01

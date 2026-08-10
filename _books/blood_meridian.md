@@ -4,7 +4,7 @@ title: Blood Meridian, or, the Evening Redness in the West
 author: Cormac McCarthy
 olid: OL40879W
 isbn: 9781529077162
-categories: Fiction, Western
+categories: [Fiction, Western]
 cover: assets/img/book_covers/blood_meridian.jpg
 tags:
 date: 2022-01-01

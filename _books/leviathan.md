@@ -4,7 +4,7 @@ title: Léviathan
 author: Tomas Hobbes
 olid: OL653987W
 isbn: 9780140431957
-categories: Philosophy, Political Science, Nonfiction
+categories: [Philosophy, Political Science, Nonfiction]
 cover: assets/img/book_covers/leviathan.jpg
 tags:
 date: 2023-06-01

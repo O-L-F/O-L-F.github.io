@@ -4,7 +4,7 @@ title: The Idiot
 author: Fyodor Dostoyevsky
 olid: OL166925W
 isbn: 9780140447927
-categories: Classics, Fiction, Russia
+categories: [Classics, Fiction, Russia]
 cover: assets/img/book_covers/idiot.jpg
 tags:
 date: 2024-01-01

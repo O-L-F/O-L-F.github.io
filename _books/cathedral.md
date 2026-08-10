@@ -4,7 +4,7 @@ title: Cathedral
 author: Raymond Carver
 olid: OL1865880W
 isbn: 0679723692
-categories: Short story, fiction, classic
+categories: [Short Stories, Fiction, Classics]
 cover: assets/img/book_covers/cathedral.jpg
 tags:
 date: 2026-06-01

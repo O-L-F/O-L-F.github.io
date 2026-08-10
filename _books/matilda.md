@@ -4,7 +4,7 @@ title: Matilda
 author: Roald Dalh
 olid:  OL45846W
 isbn: 9780435123987 
-categories: Fiction, Childrens, Classics
+categories: [Fiction, Children's, Classics]
 cover: assets/img/book_covers/matilda.jpg
 tags:
 date: 2012-01-01

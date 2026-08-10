@@ -4,7 +4,7 @@ title: Démocratie et Totalitarisme
 author: Raymond Aron
 olid: OL356089W
 isbn: 9782070324293
-categories: Nonfiction, Political Science
+categories: [Nonfiction, Political Science]
 cover: assets/img/book_covers/D&T.jpg
 tags:
 date: 2022-01-01

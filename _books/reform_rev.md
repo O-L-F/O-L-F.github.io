@@ -4,7 +4,7 @@ title: Reform or Revolution & Other Writings
 author: Rosa Luxemburg
 olid: OL2364945W
 isbn: 9780486447766
-categories: Political Science, Nonfiction, Philosophy
+categories: [Political Science, Nonfiction, Philosophy]
 cover: assets/img/book_covers/reform_rev.jpg
 tags:
 date: 2025-06-01

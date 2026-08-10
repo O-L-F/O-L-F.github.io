@@ -4,7 +4,7 @@ title: Le Price
 author: Machiavelli
 olid: OL1089297W
 isbn: 9780140449150
-categories: Philosophy, Classics, Political Science
+categories: [Philosophy, Classics, Political Science]
 cover: assets/img/book_covers/prince.jpg
 tags:
 date: 2023-07-01

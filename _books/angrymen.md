@@ -4,7 +4,7 @@ title: 12 Angry Men
 author: Reginald Rose
 olid: 0143104403
 isbn: 9780143104407
-categories: Plays, Classics, Fiction
+categories: [Plays, Classics, Fiction]
 cover: assets/img/book_covers/angrymen.jpg
 tags:
 date: 2023-01-01

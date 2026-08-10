@@ -4,7 +4,7 @@ title: The Catcher in the Rye
 author: J. D. Salinger
 olid: OL3335245W # optional: Open Library ID to auto-fetch cover art
 isbn: 9780316769174 # optional: ISBN to auto-fetch cover art (used if no olid given)
-categories: fiction classics
+categories: [Fiction, Classics]
 cover: assets/img/book_covers/CR.jpg
 tags:
 date: 2023-01-15

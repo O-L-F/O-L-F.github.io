@@ -4,7 +4,7 @@ title: Farenheit 451
 author: Ray Bradbury
 olid:
 isbn: 9781451673319
-categories: Classics, Fiction, Dystopia
+categories: [Classics, Fiction, Dystopia]
 cover: assets/img/book_covers/farenheit.jpg
 tags:
 date: 2020-01-01

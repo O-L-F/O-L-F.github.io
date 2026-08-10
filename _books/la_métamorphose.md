@@ -4,7 +4,7 @@ title: La Métamorphose
 author: Franz Kafka
 olid: OL498556W
 isbn: 9782070414376
-categories: Classics, Philosophy, Fiction
+categories: [Classics, Philosophy, Fiction]
 cover: assets/img/book_covers/la_métamorphose.jpg
 tags:
 date: 2024-06-01

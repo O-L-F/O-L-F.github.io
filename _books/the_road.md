@@ -4,7 +4,7 @@ title: The Road
 author: Cormac McCarthy
 olid: OL40873W
 isbn: 9780307265432
-categories: Fiction, Classics, Dystopia
+categories: [Fiction, Classics, Dystopia]
 cover: assets/img/book_covers/the_road.jpg
 tags:
 date: 2021-04-01

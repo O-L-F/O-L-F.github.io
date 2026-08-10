@@ -4,7 +4,7 @@ title: King Lear
 author: Shakespear
 olid: OL259026W
 isbn: 9780199535828
-categories: Classics, Play, Assigned reading
+categories: [Classics, Plays, Assigned Reading]
 cover: assets/img/book_covers/king_lear.jpg
 tags:
 date: 2021-01-01

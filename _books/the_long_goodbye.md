@@ -4,7 +4,7 @@ title: The Long Goodbye
 author: Raymond Chandler
 olid: OL15400581W
 isbn: 9780394757681
-categories: Mystery, Fiction, Crime, Noir
+categories: [Mystery, Fiction, Crime, Noir]
 cover: assets/img/book_covers/the_long_goodbye.jpg
 tags:
 date: 2020-01-01

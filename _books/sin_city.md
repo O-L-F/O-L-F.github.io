@@ -4,7 +4,7 @@ title: Sin City, Vol. 2. A Dame to Kill For
 author: Frank Miller
 olid: OL253459W
 isbn: 9781593072940
-categories: Comics, Noir. Fiction
+categories: [Comics, Noir, Fiction]
 cover: assets/img/book_covers/sin_city.jpg
 tags:
 date: 2025-10-01

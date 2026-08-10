@@ -4,7 +4,7 @@ title: Mathematical Analysis. Second Edition
 author: Tom m. Apostol
 olid: 02
 isbn: 9780201002843
-categories: Mathematics, Calculus
+categories: [Mathematics, Calculus]
 cover: assets/img/book_covers/math.jpg
 tags:
 date: 2026-06-01

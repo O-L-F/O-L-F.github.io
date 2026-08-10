@@ -4,7 +4,7 @@ title: Noces et l'Été
 author: Albert Camus
 olid: OL1230627W
 isbn: 9782070360161
-categories: Classics, Philosophy, France, nonfiction
+categories: [Classics, Philosophy, France, Nonfiction]
 cover: assets/img/book_covers/noces.jpg
 tags:
 date: 2025-01-01

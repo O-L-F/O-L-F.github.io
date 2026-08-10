@@ -4,7 +4,7 @@ title: Le mythe de Sisyphe
 author: Albert Camus 
 olid: OL1230601W
 isbn: 9782070322886
-categories: Philosophy, Classics, Nonfiction, France
+categories: [Philosophy, Classics, Nonfiction, France]
 cover: assets/img/book_covers/sisyphe.jpg
 tags:
 date: 2023-03-31

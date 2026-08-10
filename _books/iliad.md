@@ -4,7 +4,7 @@ title: The Iliad
 author: Homer
 olid: OL61981W
 isbn: 9781324001805
-categories: Classics, Poetry, Methodology, assigned reading
+categories: [Classics, Poetry, Methodology, Assigned Reading]
 cover: assets/img/book_covers/iliad.jpg
 tags:
 date: 2023-06-01

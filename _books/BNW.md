@@ -4,7 +4,7 @@ title: Brave New World
 author: Aldous Huxley
 olid: OL64365W
 isbn: 9780060929879
-categories: Classics, Fiction, Dystopia
+categories: [Classics, Fiction, Dystopia]
 cover: assets/img/book_covers/BNW.jpg
 tags:
 date: 2021-01-01

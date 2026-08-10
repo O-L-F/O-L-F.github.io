@@ -4,7 +4,7 @@ title: Burgundy
 author: Mélanie Michaud
 olid: 01
 isbn: 9782897071356 
-categories: Roman, assigned reading
+categories: [Roman, Assigned Reading]
 cover: assets/img/book_covers/burg.jpg
 tags:
 date: 2022-06-01

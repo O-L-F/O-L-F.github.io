@@ -4,7 +4,7 @@ title: Le Petit Prince
 author: Antoine de Saint-Exupéry
 olid: OL10263W
 isbn: 9783125971400
-categories: Classics, Fantasy, Childrens
+categories: [Classics, Fantasy, Children's]
 cover: assets/img/book_covers/le_petit_prince.jpg
 tags:
 date: 2012-03-31

@@ -4,7 +4,7 @@ title: Fantastic Mister Fox
 author: Roald Dahl
 olid: OL45804W
 isbn: 9780141301136
-categories: Childrens, Fiction, Classic
+categories: [Children's, Fiction, Classics]
 cover: assets/img/book_covers/fox.jpg
 tags:
 date: 2013-01-01

@@ -4,7 +4,7 @@ title: The Arabian Nights
 author: Collection
 olid: OL29464513W
 isbn: 9780812972146
-categories: Classics, Fiction
+categories: [Classics, Fiction]
 cover: assets/img/book_covers/arabian_nights.jpg
 tags:
 date: 2012-01-01

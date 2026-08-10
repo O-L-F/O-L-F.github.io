@@ -4,7 +4,7 @@ title: Farewell, My Lovely
 author: Raymond Chandler
 olid: OL3295514W
 isbn: 9780394239071
-categories: Mystery, Fiction, Noir
+categories: [Mystery, Fiction, Noir]
 cover: assets/img/book_covers/farewell_My_lovely.jpg
 tags:
 date: 2024-06-01

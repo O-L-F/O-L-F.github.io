@@ -4,7 +4,7 @@ title: Red Notice
 author: Bill Bowder
 olid: OL19999600W
 isbn: 9781476755717
-categories: Nonfiction, History, Russia
+categories: [Nonfiction, History, Russia]
 cover: assets/img/book_covers/red_notice.jpg
 tags:
 date: 2023-08-01

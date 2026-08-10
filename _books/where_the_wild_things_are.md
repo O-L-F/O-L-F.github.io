@@ -4,7 +4,7 @@ title: Where the Wild Things Are
 author: Maurice Sendak
 olid: OL2568879W
 isbn: 9780099408390
-categories: Childrens, Classic, Fiction 
+categories: [Children's, Classics, Fiction]
 cover: assets/img/book_covers/where_the_wild_things_are.jpg
 tags:
 date: 2011-01-01

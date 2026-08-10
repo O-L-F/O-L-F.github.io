@@ -4,7 +4,7 @@ title: Notes from Undergrounf
 author: Fyodor Dostoevsky
 olid: 9780679734529
 isbn: 9780679734529
-categories: Classics, Fiction, Russia
+categories: [Classics, Fiction, Russia]
 cover: assets/img/book_covers/underground.jpg
 tags:
 date: 2024-05-01

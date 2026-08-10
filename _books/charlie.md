@@ -4,7 +4,7 @@ title: Charlie and the Chocolate Factory
 author: Roald Dahl
 olid: OL45790W
 isbn: 9780141301150
-categories: Fiction, Classic, Childrens
+categories: [Fiction, Classics, Children's]
 cover: assets/img/book_covers/charlie.jpg
 tags:
 date: 2010-01-01

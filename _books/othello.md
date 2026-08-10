@@ -4,7 +4,7 @@ title: Othello
 author: Shakespear
 olid: OL258850W
 isbn: 9788804509387
-categories: Classics, Plays, Fiction
+categories: [Classics, Plays, Fiction]
 cover: assets/img/book_covers/othello.jpg
 tags:
 date: 2019-01-01

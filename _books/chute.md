@@ -4,7 +4,7 @@ title: La Chute
 author: Albert Camus
 olid: OL1230631W
 isbn: 9782070360109
-categories: Fiction, Philosophy, France
+categories: [Fiction, Philosophy, France]
 cover: assets/img/book_covers/chute.jpg
 tags:
 date: 2025-01-01

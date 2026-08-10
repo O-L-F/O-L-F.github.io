@@ -4,7 +4,7 @@ title: Huis clos, suivi de Les Mouches
 author: Jean-Paul Sartre
 olid: OL4488995W
 isbn: 9782070368075
-categories: Classics, Plays, France
+categories: [Classics, Plays, France]
 cover: assets/img/book_covers/huis_clos.jpg
 tags:
 date: 2024-03-01

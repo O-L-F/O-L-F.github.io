@@ -4,7 +4,7 @@ title: All the Pretty Horses
 author: Cormac McCarthy
 olid: OL40882W
 isbn: 9780679744399
-categories: Fiction, Western, Classics
+categories: [Fiction, Western, Classics]
 cover: assets/img/book_covers/horses.jpg
 tags:
 date: 2025-06-01

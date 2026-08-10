@@ -4,7 +4,7 @@ title: Shuni
 author: Naomi Fontaine
 olid: OL24320288W
 isbn: 9782897126544
-categories: Canada, Fiction, Indigenous
+categories: [Canada, Fiction, Indigenous]
 cover: assets/img/book_covers/shuni.jpg
 tags:
 date: 2023-05-01

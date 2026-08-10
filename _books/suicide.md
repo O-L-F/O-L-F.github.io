@@ -4,7 +4,7 @@ title: Le Suicide
 author: Émile Durkheim
 olid: OL606917W
 isbn: 9791022301862
-categories: Sociology, nonfiction
+categories: [Sociology, Nonfiction]
 cover: assets/img/book_covers/suicide.jpg
 tags:
 date: 2022-01-05

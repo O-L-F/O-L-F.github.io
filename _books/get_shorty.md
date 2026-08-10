@@ -4,7 +4,7 @@ title: Get Shorty
 author: Elmore Leonard
 olid: OL111689W
 isbn: 9780060082161
-categories: Fiction, Mystery
+categories: [Fiction, Mystery]
 cover: assets/img/book_covers/get_shorty.jpg
 tags:
 date: 2021-01-01

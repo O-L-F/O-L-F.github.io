@@ -4,7 +4,7 @@ title: L'Étranger
 author: Albert Camus
 olid: OL58688369M
 isbn: 9782070360024
-categories: Classics, Philosophy, France
+categories: [Classics, Philosophy, France]
 cover: assets/img/book_covers/etranger.jpg
 tags:
 date: 2019-03-01

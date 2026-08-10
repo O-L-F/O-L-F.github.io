@@ -4,7 +4,7 @@ title: V for Vendetta
 author: Alan Moore & David Lloyd
 olid: 03
 isbn: 9781401207922
-categories: Fiction, Dystopia
+categories: [Fiction, Dystopia]
 cover: assets/img/book_covers/vfv.jpg
 tags:
 date: 2023-06-01

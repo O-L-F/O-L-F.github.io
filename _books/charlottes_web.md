@@ -4,7 +4,7 @@ title: Charlotte's web
 author: E.B. White
 olid: OL483391W
 isbn: 9780064410939
-categories: Classics, fiction, Childrens
+categories: [Classics, Fiction, Children's]
 cover: assets/img/book_covers/charlottes_web.jpg
 tags:
 date: 2011-01-01

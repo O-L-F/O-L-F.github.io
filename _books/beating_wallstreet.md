@@ -4,7 +4,7 @@ title: Beating the Street
 author: Peter Lynch
 olid: OL2841895W
 isbn: 9780671891633
-categories: Finance, nonfiction
+categories: [Finance, Nonfiction]
 cover: assets/img/book_covers/beating_wallstreet.jpg
 tags:
 date: 2020-01-01
