@@ -148,13 +148,13 @@ cv:
         summary: "Native speaker"
 
       - name: French
-        summary: "Native"
+        summary: "Native Speaker"
         
-        - name: Russian
-        summary: "Elementary"
+      - name: Russian
+      summary: "Elementary"
 
-        - name: Italian
-        summary: "Elementary"
+      - name: Italian
+      summary: "Elementary"
 
     Interests:
       - name: Physics
