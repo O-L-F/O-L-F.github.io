@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: /
 
 profile:
   align: right
@@ -28,7 +28,7 @@ latest_posts:
 
 I am a current undergraduate at McGill University pursuing an Honours degree in Political Science. 
 
-Broadly, my work sits at the intersection of institutional development and comparative politics. I am particularly interested in how political institutions evolve under pressure—whether through democratization, conflict termination, or integration into supranational structures like the EU. Much of my research examines how judicial institutions respond to major political shocks and how local actors shape national trajectories in moments of democratic uncertainty.
+Broadly, my work explores institutional development and comparative politics. I am particularly interested in how political institutions evolve under pressure—whether through democratization, conflict termination, or integration into supranational structures like the EU. Much of my research examines how judicial institutions respond to major political shocks and how local actors shape national trajectories in moments of democratic uncertainty.
 
 I currently contribute to two collaborative projects:
 
@@ -48,7 +48,7 @@ As is probably evident, I am an empiricist. While I have recently tried my hand 
 
 
 
-
+--- 
 
 You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
