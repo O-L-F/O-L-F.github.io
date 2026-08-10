@@ -32,7 +32,7 @@ Broadly, my work explores institutional development and comparative politics. I 
 
 I currently contribute to two collaborative projects:
 
-* Central and Eastern Europe — With Professors Maria Popova and Nikolay Marinov, I study how local political actors in the region have slowed -- or reversed --attempts by national-level autocrats to consolidate power.
+* Central and Eastern Europe — With Professors Maria Popova and Nikolay Marinov, I study how local political actors in the region have slowed -- or reversed -- attempts by national-level autocrats to consolidate power.
 
 * European party systems — With Professors Dietlind Stolle, Maria Popova, and Rafael Campos‑Gottardo, I investigate how Russia’s invasion of Ukraine is reshaping party competition and ideological alignments across Europe.
 
@@ -41,10 +41,12 @@ Alongside these collaborations, I maintain independent research projects focused
 * EU accession — analyzing how the process of joining the European Union influences judicial development and institutional resilience.
 
 * Civil war termination — exploring how the end of civil conflicts affects the strength and autonomy of the judicial branch.
-
-While these themes anchor my current work, I remain intentionally open in defining my long‑term research agenda. I’m an early‑career scholar, still building the intellectual map I hope to follow -- one that connects institutions, political development, and the diverse pathways countries take in moments of profound change.
-
+  
 As is probably evident, I am an empiricist. While I have recently tried my hand at more qualitative methodologies, I am most comfortable in quantitative analysis.
+
+While these themes anchor my current work, I remain intentionally open in defining my long‑term research agenda. I’m an early‑career scholar, still building the intellectual map I hope to follow.
+
+
 
 
 
