@@ -4,7 +4,6 @@ cv:
   email: olivier.lesagefilippin[at]mail.mcgill.ca
   location: Montréal, QC
   image: ""
-  summary: ""
   social_networks:
     - network: bluesky
       username: https://bsky.app/profile/olivier-lf.bsky.social
@@ -29,7 +28,7 @@ cv:
         studyType: BA. Hons
         start_date: 2024
         end_date: Ongoing
-        score: ""
+        score: 3.87/4
         courses: ""
         highlights:
           - ARIA award
@@ -38,10 +37,12 @@ cv:
 
       - institution: CÉGEP de Drummondville
         location: Drummondville, Canada
+        url: https://www.cegepdrummond.ca/
         area: Social Studies
         studyType: DEC
         start_date: 2022
         end_date: 2024
+        score: 30.952 R
         highlights:
           - Model UN
           - Chess Club
@@ -143,11 +144,17 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: English
         summary: "Native speaker"
 
-      - name: English
-        summary: "Fluent"
+      - name: French
+        summary: "Native"
+        
+        - name: Russian
+        summary: "Elementary"
+
+        - name: Italian
+        summary: "Elementary"
 
     Interests:
       - name: Physics
