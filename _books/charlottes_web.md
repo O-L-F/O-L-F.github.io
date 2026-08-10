@@ -1,16 +1,16 @@
 ---
 layout: book-review
-title:
-author:
-olid:
-isbn:
-categories:
+title: Charlotte's web
+author: E.B. White
+olid: OL483391W
+isbn: 9780064410939
+categories: Classics, fiction, Childrens
 cover: assets/img/book_covers/charlottes_web.jpg
 tags:
-date: 2026-08-09
-started:
-finished:
-released:
-stars:
+date: 2011-01-01
+started: 2011-01-01
+finished: 2011-06-01
+released: 1952
+stars: 4
 status: Finished
 ---

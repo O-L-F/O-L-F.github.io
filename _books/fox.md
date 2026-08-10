@@ -1,16 +1,18 @@
 ---
 layout: book-review
-title:
-author:
-olid:
-isbn:
-categories:
+title: Fantastic Mister Fox
+author: Roald Dahl
+olid: OL45804W
+isbn: 9780141301136
+categories: Childrens, Fiction, Classic
 cover: assets/img/book_covers/fox.jpg
 tags:
-date: 2026-08-09
-started:
-finished:
-released:
-stars:
+date: 2013-01-01
+started: 2013-01-01
+finished: 2013-01-01
+released: 1970
+stars: 4
 status: Finished
 ---
+
+I remember vividly not liking the illustrations. Roald Dahl is just the goat of kids books. 
