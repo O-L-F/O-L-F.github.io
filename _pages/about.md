@@ -44,4 +44,3 @@ Alongside these collaborations, I maintain independent research projects focused
 As is probably evident, I am an empiricist. While I have recently tried my hand at more qualitative methodologies, I am most comfortable in quantitative analysis.
 
 While these themes anchor my current work, I remain intentionally open in defining my long‑term research agenda. I’m an early‑career scholar, still building the intellectual map I hope to follow.
-***
