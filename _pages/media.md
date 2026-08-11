@@ -1,4 +1,3 @@
-cat > _pages/media.md << 'EOF'
 ---
 layout: page
 permalink: /media/
