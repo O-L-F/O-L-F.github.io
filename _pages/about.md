@@ -27,7 +27,7 @@ latest_posts:
 
 I am a current undergraduate at McGill University pursuing an Honours degree in Political Science. 
 
-Broadly, my work explores institutional development and comparative politics. I am particularly interested in how political institutions evolve under pressure—whether through democratization, conflict termination, or integration into supranational structures like the EU. Much of my research examines how judicial institutions respond to major political shocks and how local actors shape national trajectories in moments of democratic uncertainty.
+Broadly, my work explores institutional development and comparative politics. I am particularly interested in how political institutions evolve under pressure -- whether through democratization, conflict termination, or integration into supranational structures like the EU. Much of my research examines how judicial institutions respond to major political shocks and how local actors shape national trajectories in moments of democratic uncertainty.
 
 I currently contribute to two collaborative projects:
 
