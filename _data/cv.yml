@@ -118,7 +118,6 @@ cv:
       - title: "Of Leverage and Reform: The Consequences of EU Membership on Judicial Systems in Diverse Member States"
         awarder: POLITY:URC 2026 -- Critical Junctures
         date: 2026-03-01
-        url: https://polityurc.org/panel-2.html
 
     Awards:
       - title: Arts Undergraduate Research Internship Award (ARIA)
@@ -185,9 +184,9 @@ cv:
         date: 2024-03-01
 
     Skills:
-      - name: Computational & Research Methods
+      - name: Computational 
         level: ""
-        icon: fa-solid fa-hashtag
+        icon: ""
         keywords: "R, LaTeX, JavaScript, Excel, Power Automate"
 
     Languages:
