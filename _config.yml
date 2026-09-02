@@ -358,8 +358,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Lesage Filippin]
+  first_name: [Olivier, O.]
 
   style: apa
   locale: en
@@ -702,14 +702,11 @@ jekyll_get_json:
 
 jsonresume:
   - basics
-  - work
   - education
-  - publications
-  - projects
-  - volunteer
+  - work
+  - presentations
   - awards
-  - certificates
+  - publications
+  - media
   - skills
   - languages
-  - interests
-  - references
