@@ -1,6 +1,6 @@
 cv:
-  name: Olivier Lesage Filippin 
-  label: Undergraduate Student
+  name: Olivier Lesage Filippin
+  label: Undergraduate Researcher, Political Science
   email: olivier.lesagefilippin[at]mail.mcgill.ca
   location: Montréal, QC
   image: ""
@@ -48,149 +48,157 @@ cv:
           - Chess Club
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Centre pour l'Étude de la Citoyenneté Démocratique (CECD-CSDC)
+        position: Research Assistant
+        location: Montréal, Canada
+        start_date: 2026-07-01
+        end_date: Ongoing
+        summary: Supervised by Prof. Dietlind Stolle and Prof. Maria Popova.
         highlights:
-          - Relativity
-          - Description 2.
+          - Applying quantitative methods to ongoing research on democratic citizenship and comparative politics.
+          - Review manuscript drafts and provide feedback ahead of submission.
+          - Built Twitter (X) scraper for data wrangling.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: McGill University
+        position: Research Assistant
+        location: Montréal, Canada
+        start_date: 2026-05-01
+        end_date: Ongoing
+        summary: Supervised by Prof. Maria Popova and Prof. Nikolay Marinov (University of Gothenburg). Recipient of the Arts Undergraduate Research Internship Award (ARIA), a $5,000 competitive research bursary.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Conduct data collection and quantitative analysis in R supporting ongoing academic research.
+          - Built Curia scraper to analyze EU court referral behaviour.
+          - Draft manuscript for submission under the supervision of Prof. Popova & Prof. Marinov.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Cushman & Wakefield
+        position: Research Intern
+        location: Montréal, Canada
+        start_date: 2025-08-01
+        end_date: Ongoing
+        summary: Support market research and valuation analysis for commercial real estate; built R and Power Automate workflows for internal data pipelines.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Cushman & Wakefield
+        position: Brokerage Intern
+        location: Montréal, Canada
+        start_date: 2025-05-01
+        end_date: 2025-08-01
+        summary: Supported tenant prospecting and market analysis. Successfully leased a 5,300 SF space.
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: CÉGEP de Drummondville
+        position: Academic Tutor
+        location: Drummondville, Canada
+        start_date: 2023-08-01
+        end_date: 2023-12-01
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Coordinated cross-disciplinary study groups (foreign affairs, micro/macroeconomics, international development) and served as liaison between students and professors.
+
+      - company: CÉGEP de Drummondville
+        position: Intern Advisor for International Students
+        location: Drummondville, Canada
+        start_date: 2023-08-01
+        end_date: 2023-12-01
+        highlights:
+          - Mentored international students through a three-month academic and cultural acclimation process, developing personalized support and integration plans.
+
+      - company: Embleme Canneberge Inc.
+        position: Production Assembly
+        location: Sainte-Eulalie, Canada
+        start_date: 2021-06-01
+        end_date: 2021-08-01
+        summary: Supported packaging, quality control, and field data collection for fruit yield estimates.
+
+      - company: Subway Inc.
+        position: Shift Manager
+        location: Sainte-Eulalie, Canada
+        start_date: 2020-06-01
+        end_date: 2024-05-01
+        summary: Managed a team of 15 staff; ensured regulatory compliance and service standards.
+
+    Presentations:
+      - title: "Of Leverage and Reform: The Consequences of EU Membership on Judicial Systems in Diverse Member States"
+        awarder: POLITY:URC 2026 -- Critical Junctures
+        date: 2026-03-01
+        url: https://polityurc.org/panel-2.html
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Arts Undergraduate Research Internship Award (ARIA)
+        awarder: McGill University
+        date: 2026-05-01
+        summary: "$5,000"
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Bourstad Portfolio Management Award, Collegiate Level -- 1st Place
+        date: 2024-05-01
+        summary: "$500"
+
+      - title: Outstanding Student Award (Nominee)
+        awarder: CÉGEP de Drummondville
+        date: 2024-05-01
+
+      - title: Summa Cum Laude
+        awarder: CÉGEP de Drummondville
+        date: 2024-05-01
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "European Solidarity and the Emergence of a New Geopolitical Cleavage"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Olivier Lesage Filippin
+          - Dietlind Stolle
+          - Maria Popova
+        publisher: In preparation
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "City Limits: Urban Opposition and the Boundaries of Democratic Backsliding in Central and Eastern Europe"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Olivier Lesage Filippin
+          - Maria Popova
+          - Nikolay Marinov
+        publisher: In preparation
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: "Blessed are the Peacekeepers: Elite Uncertainty and Judicial Strengthening in Post-Conflict States"
+      authors:
+        - Olivier Lesage Filippin
+      publisher: In preparation
+
+      - title: "Of Leverage and Reform: The Consequences of EU Membership on Judicial Systems in Diverse Member States"
+      authors:
+        - Olivier Lesage Filippin
+      publisher: In preparation
+
+    Media:
+      - title: A career-building opportunity to delve into real issues
+        awarder: McGill Reporter
+        date: 2026-07-01
+
+      - title: Une idéalisation du risque
+        awarder: La Presse
+        date: 2026-03-01
+
+      - title: "200 000$ à investir dans un marché imprévisible"
+        awarder: La Presse
+        date: 2025-01-01
+
+      - title: Entretien sur la langue française avec Yves-François Blanchet
+        awarder: Cégep Drummond
+        date: 2024-03-01
+
+      - title: "Écoutez, Comprendre et Agir -- Un Podcast sur le Suicide"
+        awarder: YouTube
+        date: 2024-03-01
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Computational & Research Methods
+        level: ""
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "R, LaTeX, JavaScript, Excel, Power Automate"
 
     Languages:
       - name: English
         summary: "Native speaker"
 
       - name: French
-        summary: "Native Speaker"
-        
+        summary: "Native speaker"
+
       - name: Russian
         summary: "Elementary"
 
       - name: Italian
         summary: "Elementary"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
