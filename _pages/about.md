@@ -11,7 +11,7 @@ profile:
     <p>McGill University</p>
     <p>Montreal, QC</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -46,4 +46,4 @@ As is probably evident, I am an empiricist. While I have recently tried my hand 
 While these themes anchor my current work, I remain intentionally open in defining my long‑term research agenda. I’m an early‑career scholar, still building the intellectual map I hope to follow.
 
 
--
+---
