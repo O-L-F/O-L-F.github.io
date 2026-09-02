@@ -114,10 +114,10 @@ cv:
         end_date: 2024-05-01
         summary: Managed a team of 15 staff; ensured regulatory compliance and service standards.
 
-    Presentations:
-      - title: "Of Leverage and Reform: The Consequences of EU Membership on Judicial Systems in Diverse Member States"
-        date: 2026-03-01
-        summary: POLITY:URC 2026 -- Critical Junctures
+ #   Presentations:
+#      - title: "Of Leverage and Reform: The Consequences of EU Membership on Judicial Systems in Diverse Member States"
+   #     date: 2026-03-01
+   #     summary: POLITY:URC 2026 -- Critical Junctures
 
     Awards:
       - title: Arts Undergraduate Research Internship Award (ARIA), McGill University
@@ -159,28 +159,28 @@ cv:
           - Olivier Lesage Filippin
         publisher: In preparation
 
-    Media:
-      - title: A career-building opportunity to delve into real issues
-        date: 2026-07-01
-        summary: McGill Reporter
+  #  Media:
+   #   - title: A career-building opportunity to delve into real issues
+     #   date: 2026-07-01
+      #  summary: McGill Reporter
         
 
-      - title: Une idéalisation du risque
-        date: 2026-03-01
-        summary: La Presse
+   #   - title: Une idéalisation du risque
+    #    date: 2026-03-01
+     #   summary: La Presse
         
-      - title: "200 000$ à investir dans un marché imprévisible"
-        date: 2025-01-01
-        summary: La Presse
+     # - title: "200 000$ à investir dans un marché imprévisible"
+     #   date: 2025-01-01
+     #   summary: La Presse
 
-      - title: Entretien sur la langue française avec Yves-François Blanchet
-        date: 2024-03-01
-        summary: CÉGEP Drummond
+     # - title: Entretien sur la langue française avec Yves-François Blanchet
+     #   date: 2024-03-01
+     #   summary: CÉGEP Drummond
 
-      - title: "Écoutez, Comprendre et Agir -- Un Podcast sur le Suicide"
-        date: 2024-03-01
-        summary: YouTube
-
+      #- title: "Écoutez, Comprendre et Agir -- Un Podcast sur le Suicide"
+       # date: 2024-03-01
+        #summary: YouTube
+#
     Skills:
       - name: Computational 
         icon: fa-solid 
