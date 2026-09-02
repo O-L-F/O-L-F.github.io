@@ -1,11 +1,11 @@
 cv:
   name: Olivier Lesage Filippin
   label: Undergraduate Researcher, Political Science
-  email: olivier.lesagefilippin[at]mail.mcgill.ca
+  email: olivier.lesagefilippin@mail.mcgill.ca
   location: Montréal, QC
   image: ""
   social_networks:
-    - network: bluesky
+    - network: Bluesky
       username: https://bsky.app/profile/olivier-lf.bsky.social
     - network: GitHub
       username: https://github.com/O-L-F
@@ -27,7 +27,7 @@ cv:
         area: Political Science
         studyType: BA. Hons
         start_date: 2024
-        end_date: Ongoing
+        end_date: present
         score: 3.87/4
         courses: ""
         highlights:
@@ -52,7 +52,7 @@ cv:
         position: Research Assistant
         location: Montréal, Canada
         start_date: 2026-07-01
-        end_date: Ongoing
+        end_date: present
         summary: Supervised by Prof. Dietlind Stolle and Prof. Maria Popova.
         highlights:
           - Applying quantitative methods to ongoing research on democratic citizenship and comparative politics.
@@ -63,7 +63,7 @@ cv:
         position: Research Assistant
         location: Montréal, Canada
         start_date: 2026-05-01
-        end_date: Ongoing
+        end_date: present
         summary: Supervised by Prof. Maria Popova and Prof. Nikolay Marinov (University of Gothenburg). Recipient of the Arts Undergraduate Research Internship Award (ARIA), a $5,000 competitive research bursary.
         highlights:
           - Conduct data collection and quantitative analysis in R supporting ongoing academic research.
@@ -74,7 +74,7 @@ cv:
         position: Research Intern
         location: Montréal, Canada
         start_date: 2025-08-01
-        end_date: Ongoing
+        end_date: present
         summary: Support market research and valuation analysis for commercial real estate; built R and Power Automate workflows for internal data pipelines.
 
       - company: Cushman & Wakefield
@@ -116,12 +116,11 @@ cv:
 
     Presentations:
       - title: "Of Leverage and Reform: The Consequences of EU Membership on Judicial Systems in Diverse Member States"
-        awarder: POLITY:URC 2026 -- Critical Junctures
         date: 2026-03-01
+        summary: POLITY:URC 2026 -- Critical Junctures
 
     Awards:
-      - title: Arts Undergraduate Research Internship Award (ARIA)
-        awarder: McGill University
+      - title: Arts Undergraduate Research Internship Award (ARIA), McGill University
         date: 2026-05-01
         summary: "$5,000"
 
@@ -129,12 +128,10 @@ cv:
         date: 2024-05-01
         summary: "$500"
 
-      - title: Outstanding Student Award (Nominee)
-        awarder: CÉGEP de Drummondville
+      - title: Outstanding Student Award (Nominee), CÉGEP de Drummondville
         date: 2024-05-01
 
-      - title: Summa Cum Laude
-        awarder: CÉGEP de Drummondville
+      - title: Summa Cum Laude, CÉGEP de Drummondville
         date: 2024-05-01
 
     Publications:
@@ -164,28 +161,28 @@ cv:
 
     Media:
       - title: A career-building opportunity to delve into real issues
-        awarder: McGill Reporter
         date: 2026-07-01
+        summary: McGill Reporter
+        
 
       - title: Une idéalisation du risque
-        awarder: La Presse
         date: 2026-03-01
-
+        summary: La Presse
+        
       - title: "200 000$ à investir dans un marché imprévisible"
-        awarder: La Presse
         date: 2025-01-01
+        summary: La Presse
 
       - title: Entretien sur la langue française avec Yves-François Blanchet
-        awarder: Cégep Drummond
         date: 2024-03-01
+        summary: CÉGEP Drummond
 
       - title: "Écoutez, Comprendre et Agir -- Un Podcast sur le Suicide"
-        awarder: YouTube
         date: 2024-03-01
+        summary: YouTube
 
     Skills:
       - name: Computational 
-        level: ""
         icon: fa-solid 
         keywords: "R, LaTeX, JavaScript, Excel, Power Automate"
 
