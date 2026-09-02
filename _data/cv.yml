@@ -186,6 +186,7 @@ cv:
     Skills:
       - name: Computational 
         level: ""
+        icon: fa-solid 
         keywords: "R, LaTeX, JavaScript, Excel, Power Automate"
 
     Languages:
